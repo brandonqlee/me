@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.831bf59d.chunk.css",
-    "main.js": "/me/static/js/main.e52337e9.chunk.js",
-    "main.js.map": "/me/static/js/main.e52337e9.chunk.js.map",
-    "runtime-main.js": "/me/static/js/runtime-main.ae24c08c.js",
-    "runtime-main.js.map": "/me/static/js/runtime-main.ae24c08c.js.map",
-    "static/js/2.ad97e827.chunk.js": "/me/static/js/2.ad97e827.chunk.js",
-    "static/js/2.ad97e827.chunk.js.map": "/me/static/js/2.ad97e827.chunk.js.map",
-    "index.html": "/me/index.html",
-    "precache-manifest.4df8a5b588993e8d3ac3f47e8f5f4489.js": "/me/precache-manifest.4df8a5b588993e8d3ac3f47e8f5f4489.js",
-    "service-worker.js": "/me/service-worker.js",
-    "static/css/main.831bf59d.chunk.css.map": "/me/static/css/main.831bf59d.chunk.css.map",
-    "static/js/2.ad97e827.chunk.js.LICENSE.txt": "/me/static/js/2.ad97e827.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/me/static/media/Merriweather-Regular.c97a9fc2.ttf",
-    "static/media/roll.png": "/me/static/media/roll.d03206cd.png"
+    "main.css": "/perspective/static/css/main.e0d69b31.chunk.css",
+    "main.js": "/perspective/static/js/main.69968b40.chunk.js",
+    "main.js.map": "/perspective/static/js/main.69968b40.chunk.js.map",
+    "runtime-main.js": "/perspective/static/js/runtime-main.70f0859c.js",
+    "runtime-main.js.map": "/perspective/static/js/runtime-main.70f0859c.js.map",
+    "static/js/2.d3b829e8.chunk.js": "/perspective/static/js/2.d3b829e8.chunk.js",
+    "static/js/2.d3b829e8.chunk.js.map": "/perspective/static/js/2.d3b829e8.chunk.js.map",
+    "index.html": "/perspective/index.html",
+    "precache-manifest.22b3b5db9972636133937218bad38466.js": "/perspective/precache-manifest.22b3b5db9972636133937218bad38466.js",
+    "service-worker.js": "/perspective/service-worker.js",
+    "static/css/main.e0d69b31.chunk.css.map": "/perspective/static/css/main.e0d69b31.chunk.css.map",
+    "static/js/2.d3b829e8.chunk.js.LICENSE.txt": "/perspective/static/js/2.d3b829e8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/perspective/static/media/Merriweather-Regular.c97a9fc2.ttf",
+    "static/media/roll.png": "/perspective/static/media/roll.d03206cd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae24c08c.js",
-    "static/js/2.ad97e827.chunk.js",
-    "static/css/main.831bf59d.chunk.css",
-    "static/js/main.e52337e9.chunk.js"
+    "static/js/runtime-main.70f0859c.js",
+    "static/js/2.d3b829e8.chunk.js",
+    "static/css/main.e0d69b31.chunk.css",
+    "static/js/main.69968b40.chunk.js"
   ]
 }
