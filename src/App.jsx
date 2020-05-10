@@ -4,21 +4,27 @@ import Fade from 'react-reveal/Fade';
 import "./App.css";
 import PoemContainer from './components/PoemContainer/PoemContainer';
 import Intro from './poems/Intro/Intro';
+import TableOfContents from './poems/TableOfContents/TableOfContents';
 
 class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-          content: <Fade><Intro/></Fade>,
+            content: <Fade><TableOfContents/></Fade>,
         };
     }
 
     componentDidMount = () => {
         setTimeout(() => {
             this.setState({
+                content: <Fade><Intro/></Fade>,
+            })
+        }, 10000);
+        setTimeout(() => {
+            this.setState({
                 content: <Fade><PoemContainer/></Fade>,
             })
-        }, 4000);
+        }, 14000);
     }
 
     render() {

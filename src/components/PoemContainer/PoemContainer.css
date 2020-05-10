@@ -17,6 +17,11 @@
     -ms-user-select: none;
 }
 
+.toc {
+    display: flex;
+    flex-direction: column;
+}
+
 table {
     width: 65%;
     margin: auto;
