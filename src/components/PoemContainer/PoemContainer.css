@@ -1,0 +1,130 @@
+.page-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    font-family: "Merriweather";
+    color: white;
+}
+
+.secret {
+    user-drag: none; 
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+table {
+    width: 65%;
+    margin: auto;
+}
+
+.poem-divider {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 500;
+}
+
+.black {
+    background-color: black;
+    /* color: white; */
+}
+
+.white {
+    background-color: white;
+    /* color: black; */
+}
+
+#poem-transition-white-black {
+    background: rgb(255,255,255);
+    background: -moz-linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#000000",GradientType=1);
+}
+
+#poem-transition-black-white {
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#ffffff",GradientType=1);
+}
+
+.poem-container {
+    height: 100vh;
+    width: 100vw;
+    transition: background-color 1s linear;
+    font-family: "Merriweather";
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.poem-container-long {
+    width: 100vw;
+    transition: background-color 1s linear;
+    font-family: "Merriweather";
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* a {
+    text-decoration: none;
+    color: black;
+}
+
+a:focus {
+    outline:0;
+}
+
+a:hover {
+    cursor: pointer;
+} */
+
+button {
+    background-color: transparent;
+    font-family: "Merriweather";
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:focus {
+    outline:0;
+}
+
+.poem-title {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 35px;
+}
+
+.poem-after {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.poem-body {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+/* .poem-container:hover {
+    background-color: black;      
+ } */
