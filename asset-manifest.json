@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/me/static/css/main.831bf59d.chunk.css",
-    "main.js": "/me/static/js/main.eded04b1.chunk.js",
-    "main.js.map": "/me/static/js/main.eded04b1.chunk.js.map",
+    "main.js": "/me/static/js/main.e52337e9.chunk.js",
+    "main.js.map": "/me/static/js/main.e52337e9.chunk.js.map",
     "runtime-main.js": "/me/static/js/runtime-main.ae24c08c.js",
     "runtime-main.js.map": "/me/static/js/runtime-main.ae24c08c.js.map",
     "static/js/2.ad97e827.chunk.js": "/me/static/js/2.ad97e827.chunk.js",
     "static/js/2.ad97e827.chunk.js.map": "/me/static/js/2.ad97e827.chunk.js.map",
     "index.html": "/me/index.html",
-    "precache-manifest.d21be87ffd319d5cef82e236912eec21.js": "/me/precache-manifest.d21be87ffd319d5cef82e236912eec21.js",
+    "precache-manifest.4df8a5b588993e8d3ac3f47e8f5f4489.js": "/me/precache-manifest.4df8a5b588993e8d3ac3f47e8f5f4489.js",
     "service-worker.js": "/me/service-worker.js",
     "static/css/main.831bf59d.chunk.css.map": "/me/static/css/main.831bf59d.chunk.css.map",
     "static/js/2.ad97e827.chunk.js.LICENSE.txt": "/me/static/js/2.ad97e827.chunk.js.LICENSE.txt",
     "static/media/App.css": "/me/static/media/Merriweather-Regular.c97a9fc2.ttf",
-    "static/media/roll.png": "/me/static/media/roll.ce8aa5a9.png"
+    "static/media/roll.png": "/me/static/media/roll.d03206cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ae24c08c.js",
     "static/js/2.ad97e827.chunk.js",
     "static/css/main.831bf59d.chunk.css",
-    "static/js/main.eded04b1.chunk.js"
+    "static/js/main.e52337e9.chunk.js"
   ]
 }
