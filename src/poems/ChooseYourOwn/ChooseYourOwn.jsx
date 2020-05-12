@@ -53,7 +53,7 @@ class VHSVol5 extends Component {
                         <td><span>I’m numb</span></td>
                         <td><span style={{backgroundColor: this.props.highlight}}>My heart hardens</span></td>
                         <td><span style={{backgroundColor: this.props.highlight}}>You can’t find me</span></td>
-                        <td><span>Screams echo in my head</span></td>
+                        <td><span>Voices whisper in my head</span></td>
                         <td><span style={{color: "white"}}>with</span></td>
                     </tr>
                     <tr>

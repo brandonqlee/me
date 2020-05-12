@@ -5,26 +5,38 @@ import "./App.css";
 import PoemContainer from './components/PoemContainer/PoemContainer';
 import Intro from './poems/Intro/Intro';
 import TableOfContents from './poems/TableOfContents/TableOfContents';
+import Title from './poems/Title/Title';
+import Thanks from './poems/Thanks/Thanks';
 
 class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            content: <Fade><TableOfContents/></Fade>,
+            content: <Fade><Title/></Fade>,
         };
     }
 
     componentDidMount = () => {
         setTimeout(() => {
             this.setState({
+                content: <Fade><Fade><TableOfContents/></Fade></Fade>,
+            })
+        }, 4000);
+        setTimeout(() => {
+            this.setState({
+                content: <Fade><Fade><Fade><Thanks/></Fade></Fade></Fade>,
+            })
+        }, 14000);
+        setTimeout(() => {
+            this.setState({
                 content: <Fade><Intro/></Fade>,
             })
-        }, 10000);
+        }, 21000);
         setTimeout(() => {
             this.setState({
                 content: <Fade><PoemContainer/></Fade>,
             })
-        }, 14000);
+        }, 25000);
     }
 
     render() {
