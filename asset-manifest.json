@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/perspective/static/css/main.65e38bba.chunk.css",
-    "main.js": "/perspective/static/js/main.ebec4bc3.chunk.js",
-    "main.js.map": "/perspective/static/js/main.ebec4bc3.chunk.js.map",
+    "main.js": "/perspective/static/js/main.ccecadcb.chunk.js",
+    "main.js.map": "/perspective/static/js/main.ccecadcb.chunk.js.map",
     "runtime-main.js": "/perspective/static/js/runtime-main.70f0859c.js",
     "runtime-main.js.map": "/perspective/static/js/runtime-main.70f0859c.js.map",
     "static/js/2.93402b7e.chunk.js": "/perspective/static/js/2.93402b7e.chunk.js",
     "static/js/2.93402b7e.chunk.js.map": "/perspective/static/js/2.93402b7e.chunk.js.map",
     "index.html": "/perspective/index.html",
-    "precache-manifest.f3d7f61ff2b0730aef077dd267e1c00a.js": "/perspective/precache-manifest.f3d7f61ff2b0730aef077dd267e1c00a.js",
+    "precache-manifest.6920d560e12a932167828e64a47394da.js": "/perspective/precache-manifest.6920d560e12a932167828e64a47394da.js",
     "service-worker.js": "/perspective/service-worker.js",
     "static/css/main.65e38bba.chunk.css.map": "/perspective/static/css/main.65e38bba.chunk.css.map",
     "static/js/2.93402b7e.chunk.js.LICENSE.txt": "/perspective/static/js/2.93402b7e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.70f0859c.js",
     "static/js/2.93402b7e.chunk.js",
     "static/css/main.65e38bba.chunk.css",
-    "static/js/main.ebec4bc3.chunk.js"
+    "static/js/main.ccecadcb.chunk.js"
   ]
 }
